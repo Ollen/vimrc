@@ -1,6 +1,7 @@
 :set nocompatible
 
-:set number		"Show line numbers
+:set number			"Show line numbers
+:set relativenumber	"Show relative line numbers 
 
 :set shiftwidth=4	"Number of auto-indent spaces
 :set tabstop=4		"Number of visual spacer per TAB
@@ -15,3 +16,4 @@
 
 :set showcmd		"Show vim commands
 :set showmode		"Show the current mode
+:set nowrap			"Disable line wrap
